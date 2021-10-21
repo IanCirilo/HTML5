@@ -1,3 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    font-size: 5rem;
+    text-align: center;
+}
+
+.menu{
+    text-align: right;
+}
+
+.btn{
+    display: inline;
+    font-size: 24px;
+    margin: 0 25px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
 #home{
     width: 300px;
     height: 300px;
